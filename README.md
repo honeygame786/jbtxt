@@ -39,6 +39,5 @@ Bot username
 
 
 Repo 
-https://github.com/nikhilsainiop/saini-txt-direct
-
-https://github.com/cyberseller999/saini-txt-direct
+https://github.com/honeygame786/jbtxt
+https://github.com/honeygame786/jbtxt
